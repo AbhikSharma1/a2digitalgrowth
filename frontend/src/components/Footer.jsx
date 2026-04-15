@@ -93,7 +93,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="border-t border-white/10 py-4 text-center text-gray-400 text-sm">
-        © {new Date().getFullYear()} | A3 Digital Growth — All Rights Reserved.
+        © {new Date().getFullYear()} A3 Digital Growth — All Rights Reserved. | Developed by <a href="https://abhik.kshitizproducts.cloud/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 transition">Abhik@1623</a>
       </div>
     </footer>
   );
