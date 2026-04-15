@@ -271,5 +271,5 @@ VITE_API_URL=https://your-backend-url.onrender.com
 
 ## License
 
-© 2025 A3 Digital Growth — All Rights Reserved.  
+© 2026 A3 Digital Growth — All Rights Reserved.  
 Developed by [Abhik@1623](https://abhik.kshitizproducts.cloud/)
